@@ -21,7 +21,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     info = "Aspiring Data Analyst"
     avatarurl = "images/profile.jpg"
     #gravatar = "john.doe@example.com"
-    footercontent = "BI & Analytics Intern @ Palo Alto Networks"
+    footercontent = "Business Quantitative Analysis Student @ Cal Poly, San Luis Obispo "
 
     dateformat = "January 2, 2006"
 
