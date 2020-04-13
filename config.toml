@@ -91,21 +91,29 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             name = "About"
             weight = 1
             url = "about/"
+            
 
             [[languages.en.menu.main]]
             name = "Resume"
-            weight = 2
+            weight = 3
             url = "https://www.dropbox.com/s/q1ftr24kp6llb7s/Karan%20Bhatia%20Resume.pdf?dl=0"
 
             [[languages.en.menu.main]]
             name = "Projects"
-            weight = 3
+            weight = 4
             url = "projects/"
+            
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "posts/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
             weight = 5
             url = "contact/"
+            
+
 
 
    
