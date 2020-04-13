@@ -12,6 +12,33 @@
     
     
     <item>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>/tags/first/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>/tags/post/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Soon</title>
       <link>/tags/soon/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>

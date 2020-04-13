@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Welcome to my Blog</title>
+      <link>/posts/welcome-to-my-blog/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/welcome-to-my-blog/</guid>
+      <description>Hi everyone, my name is Karan Bhatia and I am a Business Quantitative Analysis student at Cal Poly, San Luis Obispo. I am starting this blog to keep myself stimulated and write about the things I like. Feel free to learn more about me on the &amp;ldquo;About&amp;rdquo; tab of this website, and if you&amp;rsquo;re interested in my professional experience or any projects I have completed check out the &amp;ldquo;Resume&amp;rdquo; and &amp;ldquo;Projects&amp;rdquo; tabs.</description>
+    </item>
+    
+    <item>
       <title>About Karan</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -6,20 +6,18 @@
     <description>Recent content in R on Karan Bhatia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Welcome to my Blog</title>
+      <link>/posts/welcome-to-my-blog/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/posts/welcome-to-my-blog/</guid>
+      <description>Hi everyone, my name is Karan Bhatia and I am a Business Quantitative Analysis student at Cal Poly, San Luis Obispo. I am starting this blog to keep myself stimulated and write about the things I like. Feel free to learn more about me on the &amp;ldquo;About&amp;rdquo; tab of this website, and if you&amp;rsquo;re interested in my professional experience or any projects I have completed check out the &amp;ldquo;Resume&amp;rdquo; and &amp;ldquo;Projects&amp;rdquo; tabs.</description>
     </item>
     
   </channel>
