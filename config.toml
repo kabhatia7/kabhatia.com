@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "http://www.kabhatia.com"
 title = "Karan Bhatia"
 
 theme = "hugo-coder"
@@ -11,7 +11,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "kabhatia"
+disqusShortname = "kabhatia-com"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
