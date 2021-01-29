@@ -66,21 +66,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     icon = "fab fa-github"
     weight = 2
     url = "https://github.com/kabhatia7/"
-[[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/karayonbhatia/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 1
     url = "https://www.linkedin.com/in/kabhatia7/"
-[[params.social]]
-    name = "Spotify"
-    icon = "fab fa-spotify"
-    weight = 4
-    url = "https://open.spotify.com/playlist/5DXpf2MvhWs7hSKRnEMV1Y"
 [languages]
     [languages.en]
         languagename = "English"
@@ -103,10 +94,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             weight = 4
             url = "projects/"
             
-            [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
