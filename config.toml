@@ -66,7 +66,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     icon = "fab fa-github"
     weight = 2
     url = "https://github.com/kabhatia7/"
-    name = "Twitter"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
