@@ -1,4 +1,4 @@
-baseurl = "http://www.kabhatia.com"
+baseurl = "http://kabhatia.netlify.app"
 title = "Karan Bhatia"
 
 theme = "hugo-coder"
@@ -11,7 +11,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "kabhatia-com"
+disqusShortname = "kabhatia1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
@@ -71,6 +71,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     icon = "fab fa-linkedin"
     weight = 1
     url = "https://www.linkedin.com/in/kabhatia7/"
+[[params.social]]
+    name = "Spotify"
+    icon = "fab fa-spotify"
+    weight = 4
+    url = "https://open.spotify.com/playlist/5DXpf2MvhWs7hSKRnEMV1Y"
 [languages]
     [languages.en]
         languagename = "English"
@@ -93,6 +98,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             weight = 4
             url = "projects/"
             
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "posts/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
