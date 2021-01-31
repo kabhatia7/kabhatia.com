@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karan Bhatia</title>
-    <link>http://www.kabhatia.com/</link>
+    <link>http://kabhatia.netlify.app/</link>
     <description>Recent content on Karan Bhatia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.kabhatia.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://kabhatia.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content Coming Soon</title>
-      <link>http://www.kabhatia.com/posts/content-coming-soon/</link>
+      <link>http://kabhatia.netlify.app/posts/content-coming-soon/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.kabhatia.com/posts/content-coming-soon/</guid>
+      <guid>http://kabhatia.netlify.app/posts/content-coming-soon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to my Blog</title>
-      <link>http://www.kabhatia.com/posts/welcome-to-my-blog/</link>
+      <link>http://kabhatia.netlify.app/posts/welcome-to-my-blog/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.kabhatia.com/posts/welcome-to-my-blog/</guid>
+      <guid>http://kabhatia.netlify.app/posts/welcome-to-my-blog/</guid>
       <description>Hi everyone, my name is Karan Bhatia and I am a Business Quantitative Analysis student at Cal Poly, San Luis Obispo. I am starting this blog to keep myself stimulated and write about the things I like. Feel free to learn more about me on the &amp;ldquo;About&amp;rdquo; tab of this website, and if you&amp;rsquo;re interested in my professional experience or any projects I have completed check out the &amp;ldquo;Resume&amp;rdquo; and &amp;ldquo;Projects&amp;rdquo; tabs.</description>
     </item>
     
     <item>
       <title>About Karan</title>
-      <link>http://www.kabhatia.com/about/</link>
+      <link>http://kabhatia.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.kabhatia.com/about/</guid>
+      <guid>http://kabhatia.netlify.app/about/</guid>
       <description>My name is Karan Bhatia and I am a Business Quantitative Analysis Student at Cal Poly SLO.
 I am excited by career opportunities in Technology Consulting, Businesses Intelligence, and Data Analytics.
 A few industries I am always itching too learn more about include cybersecurity, financial technology, and gaming.
@@ -40,19 +40,19 @@ Experience:
     
     <item>
       <title>Contact</title>
-      <link>http://www.kabhatia.com/contact/</link>
+      <link>http://kabhatia.netlify.app/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.kabhatia.com/contact/</guid>
+      <guid>http://kabhatia.netlify.app/contact/</guid>
       <description>If you have any inquiries feel free to email me at kabhatia7@gmail.com or connect with me on any of my social media.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://www.kabhatia.com/projects/</link>
+      <link>http://kabhatia.netlify.app/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.kabhatia.com/projects/</guid>
+      <guid>http://kabhatia.netlify.app/projects/</guid>
       <description>Cal Poly Professor Salary Predictor R Shiny App:
 Uses Cal Poly Professor Salaries from Transparent California to predict how much teachers should be making relative to their colleagues based on their Tenure, Title, and College.
   Skills Demonstrated: Webscraping, Data Preprocessing, Shiny App Development, Multiple Linear Regression, Bootstrapping, and Data Visualization in R
@@ -63,10 +63,10 @@ Uses 2013-2016 Stock data of Alphabet Stock and sentiment of news articles in th
     
     <item>
       <title>Resume</title>
-      <link>http://www.kabhatia.com/resume/</link>
+      <link>http://kabhatia.netlify.app/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.kabhatia.com/resume/</guid>
+      <guid>http://kabhatia.netlify.app/resume/</guid>
       <description>link to resume</description>
     </item>
     
