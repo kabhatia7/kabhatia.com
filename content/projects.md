@@ -41,7 +41,7 @@ Validation, and Machine Learning in Python
 
 * **Slackverse Vignette:**
 
-  Wrote a guide for the setup of a webhook appliaction that allows the user to use a new 
+  Wrote a guide for the setup of a webhook application that allows the user to use a new 
   verse of packages that links R to the communication tool, Slack. 
   
 *Skills Demonstrated:* Writing vignettes, use cases, and  Creating Package Documentation in R

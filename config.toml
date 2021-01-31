@@ -75,7 +75,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [languages.en]
         languagename = "English"
 
-        [languages.en.menu]
+        [languages.en.menu] 
 
             [[languages.en.menu.main]]
             name = "About"
